@@ -772,7 +772,7 @@ html,body{
   content: "50%";
 }
 
-.progress-line.hiberspan::after {
+.progress-line.hiber span::after {
   content: "75%";
 }
 
