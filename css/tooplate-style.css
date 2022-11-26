@@ -791,6 +791,10 @@ html,body{
     position: relative;
     bottom: 50px;
   }
+
+  .skill-bars {
+    margin-bottom: 10px;
+  }
 }
 
 @media (max-width: 991px) {
@@ -813,6 +817,10 @@ html,body{
 
   .contact-info {
     padding: 0 2rem;
+  }
+
+  .skill-bars {
+    margin-bottom: 10px;
   }
 }
 
@@ -837,6 +845,10 @@ html,body{
 
   .navbar-expand-sm .navbar-nav .nav-link {
     padding: 3px 20px;
+  }
+
+  .skill-bars {
+    margin-bottom: 10px;
   }
 }
 
@@ -866,6 +878,10 @@ html,body{
     display: block;
     margin: 10px 0 0 0;
   }
+
+  .skill-bars {
+    margin-bottom: 10px;
+  }
 }
 
 @media (max-width: 320px) {
@@ -892,5 +908,9 @@ html,body{
   .social-links li {
     display: inline-block;
     vertical-align: top;
+  }
+
+  .skill-bars {
+    margin-bottom: 10px;
   }
 }
